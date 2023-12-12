@@ -32,7 +32,7 @@ RegisterNumber: 23002920
 
 
 
-## Output:
+
 ## RTL
 ![image](https://github.com/Rajagopalvengatesan/Experiment--02-Implementation-of-combinational-logic-/assets/144870784/0fe13539-7012-498e-bbc7-14387bd1a472)
 
